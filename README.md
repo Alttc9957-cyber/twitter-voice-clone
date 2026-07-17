@@ -10,6 +10,21 @@
 
 **支持所有 Agent 一键调用** —— 不管你的 Agent 是 Worker、Codex 还是自己搭的，装了就能用。
 
+
+## 📦 下载安装
+
+**方式一：Coze 技能商店（推荐）**
+1. 在 Coze Agent 设置中添加 Skill
+2. 搜索「推特文案润色」
+3. 一键安装，所有 Agent 均可调用
+
+**方式二：手动下载安装**
+1. 从 [Releases 页面](https://github.com/Alttc9957-cyber/twitter-voice-clone/releases/download/v3.3/twitter-voice-clone-skill-v3.3.zip) 下载 zip 包
+2. 解压后放入你的 Agent 的 skills 目录
+3. 重启 Agent 即可使用
+
+---
+
 ## 核心能力
 
 ### 🎤 文风喂养与模仿
@@ -72,3 +87,4 @@
 ## License
 
 MIT
+
